@@ -1,0 +1,13 @@
+.resident-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .resident-list li {
+    margin-bottom: 5px;
+  }
+  
+  .resident-list li strong {
+    font-weight: bold;
+  }
+  
